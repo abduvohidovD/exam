@@ -1,0 +1,73 @@
+.body{
+    background-color: dodgerblue;
+}
+.h1{
+    padding-right: 50px;
+    color: white;
+}
+.div2{
+    width: 350px;
+    height: 315px;
+    border: 3px solid blue;
+    margin: auto;
+    display: block;
+    background-color: white;
+}
+.p{
+    color: white;
+    text-align: center;
+}
+.a{
+    color: gold;
+}
+.h11{
+    text-align: center;
+    font-family: sans-serif;
+}
+.input{
+    width: 320px;
+    height: 35px;
+    margin: auto;
+    display: block;
+    border: 1px solid grey;
+    border-radius: 7px;
+}
+.button{
+    width: 150px;
+    height: 37px;
+    border-radius: 7px;
+    border: none;
+    margin: auto;
+    display: block;
+    background-color: greenyellow;
+}
+.div3{
+    width: 300px;
+    height: 425px;
+    border: 15px solid grey;
+    background-color: white;
+    margin: auto;
+    display: block;
+}
+.h2{
+    text-align: center;
+    font-family: sans-serif;
+}
+.p2{
+    text-align: center;
+}
+.h111{
+    color: dodgerblue;
+    text-align: center;
+    font-size: 50px;
+}
+.button11{
+    width: 250px;
+    height: 35px;
+    border: 2px solid dodgerblue;
+    background-color: white;
+    border-radius: 5px;
+    margin: auto;
+    display: block;
+    
+}
